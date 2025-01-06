@@ -1,0 +1,20 @@
+.background{
+    background-image: url(cali.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-attachment: fixed;
+   
+    
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}.topNavigation{
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: x-large;
+}
